@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46242144816",
+    "project_id": "younglearn-357ee",
+    "storage_bucket": "younglearn-357ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46242144816:android:16075e2da166f0b5d943f5",
+        "android_client_info": {
+          "package_name": "com.herika.younglearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46242144816-f652a6bvm91l19vf24iehgr3piahsqnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herika.younglearn",
+            "certificate_hash": "48256edb784d2d34c684e07a6d667d8eff742f2d"
+          }
+        },
+        {
+          "client_id": "46242144816-6d1d8j191fs8gmenmbk133h9vrtqonce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEmnPeQYAj36QHeriP2EZDanjEZdUhH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46242144816-6d1d8j191fs8gmenmbk133h9vrtqonce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
